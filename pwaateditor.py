@@ -285,7 +285,7 @@ class SettingsEditor:
     ]
 
     # Savedata elements
-    gameOneAddr          = 0x12C4
+    gameOneAddr          = 0x412C4
     gameTwoAddr          = 0x12C5
     gameThreeAddr        = 0x12C6
     backgroundMusicAddr  = 0x12C8
